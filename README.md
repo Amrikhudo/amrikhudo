@@ -21,7 +21,7 @@
 <br />
 
 <div align="center">
-  <h3>### Languages and Tools 🧩🚀:</h3>
+  <h3>### Языки и инструменты 🧩🚀:</h3>
 
 ![Python](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,3 +31,10 @@
 
 ![BootStrap](https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+<div align="center">
+  <h3>### 💻 Рабочая среда</h3>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</div>
