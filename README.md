@@ -1,3 +1,7 @@
+<a href="https://www.github.com/killshotxd" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/G/amrikhudo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Всем+привет!+👋;Я+Бугдиев+Амрихудо....;Приятно+познакомиться!&center=true&size=30">
