@@ -1,46 +1,34 @@
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="welcome">
-
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="приветствие">
 <a href="https://www.github.com/amrikhudo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/amrikhudo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Всем+привет!+👋;Я+Бугдиев+Амрихудо....;Приятно+познакомиться!&center=true&size=30">
   </a>
 </h1>
-
 <p align="center">
   <code>
     <a href="mailto:bugdievamrihudo@gmail.com" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Gmail.png"> Gmail</a></code>
-  <code><a href="https://t.me/B_Amrikhudo" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Telegram.png"> Telegram</a></code>
+  <code><a href="https://t.me/B_Amrikhudo" title="Telegram"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Telegram.png"> Telegram</a></code>
 </p>
-
 <br />
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Начинающий+программист+🚀;Эффективен+в+HTML%2C+CSS%2C+PYTHON;Изучаю+веб+и+бэкенд+разработку" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Начинающий+программист+🚀;Эффективен+в+HTML%2C+CSS%2C+PYTHON;Изучаю+веб+и+бэкенд+разработку" alt="Анимированный текст" />
 </p>
-
 <br />
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrikhudo&show_icons=true&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrikhudo&show_icons=true&theme=radical" alt="Статистика GitHub">
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrikhudo&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrikhudo&theme=radical" alt="Серия коммитов GitHub">
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrikhudo&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrikhudo&layout=compact&theme=radical" alt="Топ языков">
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrikhudo&color=brightgreen" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=amrikhudo&color=brightgreen" alt="Просмотры профиля">
 </p>
-
 <h3 align="center">Языки и инструменты 🧩🚀:</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -50,31 +38,24 @@ src="https://img.shields.io/github/followers/amrikhudo?logo=github&style=for-the
   <img src="https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap">
   <img src="https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
 </p>
-
 <h3 align="center">💻 Рабочая среда</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
-
 <h3 align="center">🚀 Текущие проекты</h3>
 <p align="center">
   - Разработка личного веб-портфолио<br>
   - Изучение фреймворка Django для бэкенд разработки<br>
   - Создание простого веб-приложения с использованием Python и JavaScript
 </p>
-
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="separator">
-
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="разделитель">
 <h3 align="center">
   📊 Статистика вклада на GitHub
 </h3>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrikhudo&theme=radical" alt="GitHub Contribution">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrikhudo&theme=radical" alt="Вклад на GitHub">
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
