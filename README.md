@@ -1,3 +1,5 @@
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="welcome">
+
 <a href="https://www.github.com/amrikhudo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/amrikhudo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -15,14 +17,18 @@ src="https://img.shields.io/github/followers/amrikhudo?logo=github&style=for-the
 
 <br />
 
-<p>- 🌱 Начинающий программист 🚀</p>
-<p>- 🔭 Очень эфективен в HTML, CSS, PYTHON</p>
-<p>- 🌱 Сейчас изучаю веб разработку и бэкенд разработку</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Начинающий+программист+🚀;Эффективен+в+HTML%2C+CSS%2C+PYTHON;Изучаю+веб+и+бэкенд+разработку" alt="Typing SVG" />
+</p>
 
 <br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amrikhudo&show_icons=true&theme=radical" alt="GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrikhudo&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
@@ -57,4 +63,16 @@ src="https://img.shields.io/github/followers/amrikhudo?logo=github&style=for-the
   - Разработка личного веб-портфолио<br>
   - Изучение фреймворка Django для бэкенд разработки<br>
   - Создание простого веб-приложения с использованием Python и JavaScript
+</p>
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="separator">
+
+<h3 align="center">
+  📊 Статистика вклада на GitHub
+</h3>
+
+![Snake animation](https://github.com/amrikhudo/amrikhudo/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
