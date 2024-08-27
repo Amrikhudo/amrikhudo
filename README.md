@@ -71,7 +71,9 @@ src="https://img.shields.io/github/followers/amrikhudo?logo=github&style=for-the
   📊 Статистика вклада на GitHub
 </h3>
 
-![Snake animation](https://github.com/amrikhudo/amrikhudo/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrikhudo&theme=radical" alt="GitHub Contribution">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
