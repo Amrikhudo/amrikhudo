@@ -39,6 +39,6 @@ src="https://img.shields.io/github/followers/amrikhudo?logo=github&style=for-the
 <div align="center">
   <h3>### 💻 Рабочая среда</h3>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </div>
