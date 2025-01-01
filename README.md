@@ -19,9 +19,6 @@ src="https://img.shields.io/github/followers/amrikhudo?logo=github&style=for-the
   <img src="https://github-readme-stats.vercel.app/api?username=amrikhudo&show_icons=true&theme=radical" alt="Статистика GitHub">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrikhudo&theme=radical" alt="Серия коммитов GitHub">
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrikhudo&layout=compact&theme=radical" alt="Топ языков">
 </p>
 <p align="center">
